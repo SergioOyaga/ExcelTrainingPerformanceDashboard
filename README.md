@@ -14,11 +14,9 @@ title="Excel Dashboard" alt="Excel Dashboard" width="1024" height="512" />
 ## Introduction
 
 This project is an example of dashboard in Excel that uses the benefits of power query, excel and VBA. 
-All together offers to the user beauty of the latest data excel data visualizations, the fastness of VBA and the 
+All together offers to the user the beauty of the latest data excel data visualizations, the fastness of VBA and the 
 scheduled synchronization of power query.
 
-
-JCuda higher level packages/bindings for CUDA libraries:
 
 - **Microsoft Excel**
 
