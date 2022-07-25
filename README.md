@@ -35,7 +35,7 @@ application is based.
 This Project:
 - Should work fine in any Microsoft Excel version from 2011 onwards.
 - Mac users may expect some different behaviours related to Microsoft ActiveX forms. These forms are included to 
-visualize filtered data in the dashboard panel. As a result table view in mac might not be available in this version.
+visualize filtered data in the dashboard panel. As a result, table view in mac might not be available for this version.
 
 ## Disclaimer
 This code is just an example of the capabilities of Excel, and because of that the editability is blocked along with the 
